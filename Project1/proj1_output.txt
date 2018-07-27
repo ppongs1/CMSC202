@@ -1,0 +1,8 @@
+Your Order: 
+QNTY                      Item    Price.
+12.00       Fried Pizza Sticks         $4.50
+ 1.00             Garden Salad         $6.50
+Subtotal: $60.50
+Tax: $3.63
+Total: $64.13
+Receipt written.
